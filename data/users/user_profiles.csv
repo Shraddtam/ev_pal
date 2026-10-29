@@ -1,0 +1,101 @@
+user_id,budget,monthly_distance,daily_distance,city,state,home_charging,workplace_charging,highway_usage,preferred_range,performance_priority,safety_priority,comfort_priority,low_running_cost_priority,fast_charging_priority,battery_longevity_priority,ownership_years,family_size,recommendation_target_vehicle_id,synthetic,source_type,generated_at,generation_method,source_reference,real_source_type
+USR000,3300000,1890,65,Bengaluru,Karnataka,true,false,41,545,2,2,2,4,5,2,3,5,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR001,3700000,2722,17,Mumbai,Maharashtra,false,true,67,358,5,2,5,1,3,2,5,1,EVP008,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR002,1900000,2413,102,Pune,Maharashtra,false,true,1,441,4,3,3,2,4,2,5,1,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR003,2600000,1044,22,Delhi,Delhi,false,false,72,393,3,2,5,5,2,3,8,3,EVP007,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR004,2300000,1688,82,Hyderabad,Telangana,false,false,33,463,5,3,1,4,1,5,5,5,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR005,3700000,1976,41,Chennai,Tamil Nadu,false,false,8,262,3,1,4,1,5,1,8,7,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR006,3800000,1240,108,Ahmedabad,Gujarat,true,false,68,401,4,3,3,1,3,4,10,5,EVP011,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR007,1400000,2284,74,Kochi,Kerala,true,false,43,326,1,3,4,2,2,5,8,4,EVP008,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR008,3800000,1133,11,Bengaluru,Karnataka,true,true,24,453,3,5,4,2,1,2,3,1,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR009,1900000,2003,30,Mumbai,Maharashtra,true,true,83,242,5,5,5,5,5,1,8,5,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR010,4400000,312,27,Pune,Maharashtra,true,false,44,392,1,2,2,5,2,2,3,4,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR011,3000000,2789,87,Delhi,Delhi,false,true,75,540,1,5,4,5,2,3,8,1,EVP007,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR012,3500000,2164,78,Hyderabad,Telangana,true,true,72,416,4,5,4,4,1,4,10,2,EVP001,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR013,3200000,1113,60,Chennai,Tamil Nadu,true,false,80,522,5,2,5,1,4,1,5,6,EVP012,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR014,3300000,2090,20,Ahmedabad,Gujarat,true,false,64,397,3,1,1,5,2,4,10,4,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR015,3400000,1513,13,Kochi,Kerala,true,false,48,291,2,1,4,5,2,2,8,7,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR016,3600000,2299,14,Bengaluru,Karnataka,false,true,48,389,4,2,2,5,1,4,8,4,EVP002,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR017,1900000,1002,89,Mumbai,Maharashtra,false,false,3,237,2,5,4,5,4,1,10,3,EVP001,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR018,3100000,1613,38,Pune,Maharashtra,true,false,60,267,4,3,3,4,3,4,5,5,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR019,3600000,2704,26,Delhi,Delhi,true,true,71,223,3,2,3,2,1,1,10,3,EVP005,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR020,2800000,2948,87,Hyderabad,Telangana,true,true,58,217,4,2,3,3,4,4,3,2,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR021,2100000,2321,34,Chennai,Tamil Nadu,true,false,22,530,5,2,4,2,4,1,5,7,EVP002,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR022,4300000,1074,25,Ahmedabad,Gujarat,true,false,54,331,1,2,5,4,5,5,10,5,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR023,1700000,918,46,Kochi,Kerala,true,false,38,279,5,5,4,3,1,4,8,3,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR024,1800000,2135,14,Bengaluru,Karnataka,false,false,81,239,3,4,4,1,1,3,10,6,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR025,1200000,2632,29,Mumbai,Maharashtra,true,false,90,423,1,1,3,4,3,1,5,3,EVP001,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR026,4100000,2002,64,Pune,Maharashtra,true,false,76,542,2,1,1,3,3,1,5,6,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR027,4300000,2473,103,Delhi,Delhi,false,false,45,309,2,3,4,5,2,2,10,6,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR028,2200000,2311,53,Hyderabad,Telangana,false,true,27,336,4,5,1,2,3,4,10,3,EVP005,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR029,3700000,796,104,Chennai,Tamil Nadu,false,true,87,432,1,3,2,1,3,1,3,3,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR030,2400000,2199,68,Ahmedabad,Gujarat,false,false,89,522,3,4,2,1,2,3,5,3,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR031,2700000,1059,29,Kochi,Kerala,true,true,15,237,5,3,5,2,2,5,3,1,EVP006,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR032,1900000,2921,44,Bengaluru,Karnataka,true,true,21,353,1,1,1,3,5,1,3,2,EVP011,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR033,3200000,2320,21,Mumbai,Maharashtra,true,true,58,382,1,3,4,1,1,5,5,7,EVP007,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR034,4200000,513,59,Pune,Maharashtra,false,false,43,231,2,3,1,1,5,1,3,3,EVP002,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR035,3100000,2268,28,Delhi,Delhi,false,false,33,366,2,3,2,2,5,5,10,7,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR036,2100000,2937,73,Hyderabad,Telangana,true,false,4,356,4,3,4,5,4,1,10,6,EVP001,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR037,2600000,581,64,Chennai,Tamil Nadu,true,false,69,359,1,4,3,1,3,3,10,6,EVP005,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR038,1700000,649,71,Ahmedabad,Gujarat,true,false,36,366,2,5,4,3,4,2,3,6,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR039,4100000,2871,29,Kochi,Kerala,true,false,0,359,1,1,1,3,1,1,8,4,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR040,4100000,1983,92,Bengaluru,Karnataka,true,false,27,250,1,1,4,1,4,1,5,4,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR041,2700000,1598,36,Mumbai,Maharashtra,true,false,12,527,3,1,1,4,3,1,3,6,EVP005,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR042,3600000,1570,111,Pune,Maharashtra,false,false,70,212,1,3,1,5,3,4,5,6,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR043,3800000,1686,72,Delhi,Delhi,true,false,13,467,1,4,5,3,5,3,5,3,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR044,1400000,1952,77,Hyderabad,Telangana,true,false,82,291,5,1,1,5,1,1,8,1,EVP011,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR045,3800000,2858,111,Chennai,Tamil Nadu,true,false,31,421,5,2,3,2,4,3,3,5,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR046,4000000,1578,69,Ahmedabad,Gujarat,true,false,72,203,4,2,3,1,3,5,3,6,EVP008,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR047,2900000,1106,67,Kochi,Kerala,true,false,53,523,1,2,2,5,4,1,8,3,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR048,4000000,444,96,Bengaluru,Karnataka,true,true,69,259,2,4,1,1,5,2,3,3,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR049,2500000,906,114,Mumbai,Maharashtra,true,true,22,403,4,3,1,1,4,4,5,4,EVP011,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR050,2200000,2314,59,Pune,Maharashtra,true,true,33,367,4,1,3,2,1,2,8,2,EVP011,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR051,2800000,2889,66,Delhi,Delhi,true,true,60,273,4,2,2,2,5,2,8,2,EVP001,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR052,4100000,850,32,Hyderabad,Telangana,true,false,20,266,3,3,2,1,5,2,8,1,EVP012,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR053,1800000,1348,35,Chennai,Tamil Nadu,true,true,88,334,3,2,2,3,1,1,5,5,EVP006,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR054,2300000,2242,14,Ahmedabad,Gujarat,true,true,8,409,5,3,2,3,1,5,3,5,EVP002,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR055,2700000,2426,101,Kochi,Kerala,false,false,59,461,1,5,2,3,4,1,5,2,EVP008,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR056,3200000,2086,116,Bengaluru,Karnataka,true,false,8,366,5,5,3,5,1,5,5,1,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR057,1500000,2896,76,Mumbai,Maharashtra,true,false,8,226,2,5,1,1,4,5,8,3,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR058,1700000,2624,67,Pune,Maharashtra,false,false,26,371,4,5,1,2,3,2,5,3,EVP011,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR059,3800000,402,95,Delhi,Delhi,false,false,75,228,4,1,4,2,4,1,8,6,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR060,1200000,342,82,Hyderabad,Telangana,false,false,59,328,1,1,4,5,5,4,5,5,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR061,1400000,1488,79,Chennai,Tamil Nadu,true,true,67,545,5,5,3,5,3,2,5,4,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR062,2100000,1031,68,Ahmedabad,Gujarat,true,false,15,313,2,5,4,2,2,4,5,5,EVP002,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR063,3100000,860,33,Kochi,Kerala,false,false,40,477,2,3,4,1,3,2,5,7,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR064,2600000,2086,26,Bengaluru,Karnataka,true,true,15,350,2,1,1,3,5,4,3,1,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR065,3400000,1621,16,Mumbai,Maharashtra,true,true,25,394,5,4,2,1,4,3,10,5,EVP005,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR066,2900000,2742,61,Pune,Maharashtra,false,false,23,311,1,1,5,1,5,1,10,7,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR067,2200000,1215,90,Delhi,Delhi,true,false,54,200,5,1,1,4,4,3,10,4,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR068,1600000,1978,23,Hyderabad,Telangana,false,false,24,448,2,1,3,5,3,4,8,7,EVP002,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR069,2400000,691,90,Chennai,Tamil Nadu,false,false,4,534,4,4,3,5,3,3,5,7,EVP011,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR070,1400000,981,23,Ahmedabad,Gujarat,true,true,30,291,1,3,2,5,1,1,8,4,EVP001,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR071,2900000,543,120,Kochi,Kerala,false,false,3,329,4,3,3,5,2,5,3,7,EVP008,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR072,2500000,2022,66,Bengaluru,Karnataka,false,false,83,231,2,3,3,3,1,5,8,1,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR073,3100000,1456,100,Mumbai,Maharashtra,false,true,50,501,2,3,3,5,3,5,3,1,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR074,4200000,2940,97,Pune,Maharashtra,true,true,8,471,2,5,1,1,5,2,8,6,EVP011,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR075,2800000,2093,90,Delhi,Delhi,false,false,86,292,2,3,1,5,2,2,3,6,EVP005,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR076,1800000,477,65,Hyderabad,Telangana,true,true,43,407,3,3,2,4,1,2,8,4,EVP008,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR077,4100000,2508,73,Chennai,Tamil Nadu,true,true,20,495,1,5,2,2,3,3,8,1,EVP010,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR078,3500000,2893,91,Ahmedabad,Gujarat,true,false,0,303,4,3,4,5,3,3,3,3,EVP012,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR079,2000000,2530,48,Kochi,Kerala,true,false,68,309,4,4,3,3,5,4,8,4,EVP008,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR080,3600000,913,31,Bengaluru,Karnataka,true,true,26,259,5,4,3,1,1,3,5,3,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR081,3900000,1153,34,Mumbai,Maharashtra,true,false,46,226,3,4,3,5,3,3,8,6,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR082,2500000,1435,57,Pune,Maharashtra,true,false,27,270,4,4,2,5,2,5,5,4,EVP002,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR083,2900000,1497,11,Delhi,Delhi,false,true,86,267,4,5,1,3,2,1,8,6,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR084,4500000,2410,24,Hyderabad,Telangana,true,false,37,236,3,2,2,5,1,3,5,1,EVP005,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR085,1300000,1513,37,Chennai,Tamil Nadu,true,false,69,389,1,5,2,5,5,5,8,6,EVP002,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR086,2400000,2960,84,Ahmedabad,Gujarat,false,false,19,417,2,3,5,4,3,2,10,7,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR087,3200000,2268,52,Kochi,Kerala,true,true,54,441,3,3,5,4,5,4,5,3,EVP012,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR088,1400000,1700,107,Bengaluru,Karnataka,false,false,57,541,4,5,5,3,4,1,3,4,EVP002,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR089,4400000,1691,66,Mumbai,Maharashtra,true,true,39,316,3,1,4,3,1,4,3,1,EVP005,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR090,2600000,561,92,Pune,Maharashtra,false,false,55,295,1,1,4,3,2,5,5,7,EVP007,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR091,2900000,813,75,Delhi,Delhi,false,false,53,235,2,2,1,5,3,5,8,3,EVP011,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR092,1800000,1692,32,Hyderabad,Telangana,true,false,10,528,2,3,3,5,3,1,10,1,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR093,3800000,2414,114,Chennai,Tamil Nadu,true,false,1,521,4,5,3,2,2,3,8,7,EVP007,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR094,3300000,2418,38,Ahmedabad,Gujarat,true,true,16,449,5,4,4,2,3,2,8,5,EVP003,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR095,4100000,2693,38,Kochi,Kerala,true,false,28,459,1,2,3,2,2,1,3,4,EVP006,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR096,2200000,760,28,Bengaluru,Karnataka,true,false,53,393,5,1,1,2,2,1,10,7,EVP004,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR097,2700000,836,34,Mumbai,Maharashtra,true,true,3,237,1,5,2,5,1,5,8,5,EVP009,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR098,2600000,2187,57,Pune,Maharashtra,true,true,55,520,2,4,5,4,5,3,3,4,EVP006,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+USR099,3300000,911,72,Delhi,Delhi,false,false,2,536,4,3,1,4,3,3,5,1,EVP006,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only

@@ -1,0 +1,289 @@
+month,state,city,manufacturer,vehicle_id,vehicle_category,registrations,market_share,year_on_year_growth,synthetic,source_type,generated_at,generation_method,source_reference,real_source_type
+2025-01,Karnataka,Bengaluru,Aranya Electric,EVP001,passenger_ev,43,4.72,19.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Aranya Electric,EVP002,passenger_ev,39,7.34,40.36,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Nivara Mobility,EVP003,passenger_ev,39,9.52,38.96,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Nivara Mobility,EVP004,passenger_ev,60,12.46,33.78,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Tamas Auto,EVP005,passenger_ev,51,3.41,1.36,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Tamas Auto,EVP006,passenger_ev,60,7.33,8.99,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Vayun Motors,EVP007,passenger_ev,83,12.66,32.67,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Vayun Motors,EVP008,passenger_ev,72,2.19,45.35,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Prithvi EV,EVP009,passenger_ev,97,3.2,-2.67,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Prithvi EV,EVP010,passenger_ev,91,3.11,26.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Suryan Automotive,EVP011,passenger_ev,76,9.67,-2.21,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Karnataka,Bengaluru,Suryan Automotive,EVP012,passenger_ev,107,7.56,34.22,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Aranya Electric,EVP001,passenger_ev,40,5.42,48.59,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Aranya Electric,EVP002,passenger_ev,31,10.46,41.01,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Nivara Mobility,EVP003,passenger_ev,48,1.11,11.12,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Nivara Mobility,EVP004,passenger_ev,59,7.94,-5.76,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Tamas Auto,EVP005,passenger_ev,43,5.47,37.4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Tamas Auto,EVP006,passenger_ev,69,13.72,-4.11,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Vayun Motors,EVP007,passenger_ev,76,10.47,16.03,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Vayun Motors,EVP008,passenger_ev,62,7.83,46.61,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Prithvi EV,EVP009,passenger_ev,65,11.88,31.47,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Prithvi EV,EVP010,passenger_ev,66,13.45,40.09,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Suryan Automotive,EVP011,passenger_ev,77,12.58,19.74,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-01,Maharashtra,Mumbai,Suryan Automotive,EVP012,passenger_ev,92,1.71,29.3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Aranya Electric,EVP001,passenger_ev,35,7.19,36.43,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Aranya Electric,EVP002,passenger_ev,38,5.4,36.02,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Nivara Mobility,EVP003,passenger_ev,36,8.42,16.7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Nivara Mobility,EVP004,passenger_ev,52,10.3,54.87,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Tamas Auto,EVP005,passenger_ev,51,9.39,3.66,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Tamas Auto,EVP006,passenger_ev,53,3.48,-0.71,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Vayun Motors,EVP007,passenger_ev,51,5.96,8.86,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Vayun Motors,EVP008,passenger_ev,53,11.6,45.99,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Prithvi EV,EVP009,passenger_ev,62,4.99,-2.99,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Prithvi EV,EVP010,passenger_ev,83,10.38,14.36,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Suryan Automotive,EVP011,passenger_ev,93,9.75,47.59,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-03,Maharashtra,Pune,Suryan Automotive,EVP012,passenger_ev,82,4.56,37.41,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Aranya Electric,EVP001,passenger_ev,24,1.7,16.03,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Aranya Electric,EVP002,passenger_ev,38,13.73,6.4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Nivara Mobility,EVP003,passenger_ev,33,10.25,8.42,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Nivara Mobility,EVP004,passenger_ev,39,11.28,10.02,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Tamas Auto,EVP005,passenger_ev,51,4.59,9.61,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Tamas Auto,EVP006,passenger_ev,46,8.16,7.33,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Vayun Motors,EVP007,passenger_ev,56,11.06,16.3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Vayun Motors,EVP008,passenger_ev,50,12.12,42.72,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Prithvi EV,EVP009,passenger_ev,57,10.91,43.97,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Prithvi EV,EVP010,passenger_ev,80,4.96,11.56,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Suryan Automotive,EVP011,passenger_ev,70,5.55,2.94,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-04,Delhi,Delhi,Suryan Automotive,EVP012,passenger_ev,84,10.1,39.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Aranya Electric,EVP001,passenger_ev,21,4.48,0.59,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Aranya Electric,EVP002,passenger_ev,30,6.6,42.08,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Nivara Mobility,EVP003,passenger_ev,38,13.52,2.31,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Nivara Mobility,EVP004,passenger_ev,30,9.4,21.63,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Tamas Auto,EVP005,passenger_ev,40,13.28,29.45,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Tamas Auto,EVP006,passenger_ev,40,7.44,-6.98,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Vayun Motors,EVP007,passenger_ev,54,6.58,-2.94,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Vayun Motors,EVP008,passenger_ev,45,2.7,-7.58,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Prithvi EV,EVP009,passenger_ev,67,7.1,15.98,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Prithvi EV,EVP010,passenger_ev,53,1.01,-1.29,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Suryan Automotive,EVP011,passenger_ev,65,6.25,50.03,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Telangana,Hyderabad,Suryan Automotive,EVP012,passenger_ev,71,5.43,49.48,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Aranya Electric,EVP001,passenger_ev,22,4.94,54.22,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Aranya Electric,EVP002,passenger_ev,23,11.08,32.76,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Nivara Mobility,EVP003,passenger_ev,28,6.95,43.69,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Nivara Mobility,EVP004,passenger_ev,41,12.62,30.51,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Tamas Auto,EVP005,passenger_ev,34,4.15,45.42,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Tamas Auto,EVP006,passenger_ev,45,9.19,35.85,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Vayun Motors,EVP007,passenger_ev,41,6.46,19.03,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Vayun Motors,EVP008,passenger_ev,42,7.4,21.66,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Prithvi EV,EVP009,passenger_ev,70,2.48,11.75,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Prithvi EV,EVP010,passenger_ev,60,4.84,3.11,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Suryan Automotive,EVP011,passenger_ev,75,2.7,46.26,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-05,Tamil Nadu,Chennai,Suryan Automotive,EVP012,passenger_ev,80,11.09,25.69,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Aranya Electric,EVP001,passenger_ev,19,6.85,15.51,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Aranya Electric,EVP002,passenger_ev,27,3.12,-5.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Nivara Mobility,EVP003,passenger_ev,29,5.93,-6.09,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Nivara Mobility,EVP004,passenger_ev,31,1.56,39.71,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Tamas Auto,EVP005,passenger_ev,38,5.92,50.03,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Tamas Auto,EVP006,passenger_ev,57,1.58,2.17,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Vayun Motors,EVP007,passenger_ev,40,7.01,-5.78,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Vayun Motors,EVP008,passenger_ev,47,12.3,6.71,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Prithvi EV,EVP009,passenger_ev,68,11.99,0.43,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Prithvi EV,EVP010,passenger_ev,55,1.6,8.38,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Suryan Automotive,EVP011,passenger_ev,78,13.74,26.91,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-06,Gujarat,Ahmedabad,Suryan Automotive,EVP012,passenger_ev,71,4.35,9.44,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Aranya Electric,EVP001,passenger_ev,27,3.25,6.62,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Aranya Electric,EVP002,passenger_ev,32,13.49,35.59,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Nivara Mobility,EVP003,passenger_ev,36,6.03,-5.88,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Nivara Mobility,EVP004,passenger_ev,36,5.16,23.62,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Tamas Auto,EVP005,passenger_ev,40,2.11,39.79,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Tamas Auto,EVP006,passenger_ev,49,6.56,-5.45,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Vayun Motors,EVP007,passenger_ev,57,4.58,39.04,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Vayun Motors,EVP008,passenger_ev,73,11.59,51.89,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Prithvi EV,EVP009,passenger_ev,50,7.51,24.67,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Prithvi EV,EVP010,passenger_ev,65,8.21,42.3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Suryan Automotive,EVP011,passenger_ev,76,10.38,19.41,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-07,Kerala,Kochi,Suryan Automotive,EVP012,passenger_ev,88,13.76,25.83,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Aranya Electric,EVP001,passenger_ev,26,9.09,14.37,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Aranya Electric,EVP002,passenger_ev,39,6.59,2.17,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Nivara Mobility,EVP003,passenger_ev,32,11.21,54.09,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Nivara Mobility,EVP004,passenger_ev,52,9.19,14.39,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Tamas Auto,EVP005,passenger_ev,56,5.68,-0.63,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Tamas Auto,EVP006,passenger_ev,59,2.57,14.65,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Vayun Motors,EVP007,passenger_ev,70,7.28,40.89,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Vayun Motors,EVP008,passenger_ev,62,13.89,30.32,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Prithvi EV,EVP009,passenger_ev,53,4.1,39.47,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Prithvi EV,EVP010,passenger_ev,60,2.42,46.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Suryan Automotive,EVP011,passenger_ev,97,2.14,16.46,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-08,Karnataka,Bengaluru,Suryan Automotive,EVP012,passenger_ev,66,2.34,-0.36,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Aranya Electric,EVP001,passenger_ev,26,5.05,32.68,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Aranya Electric,EVP002,passenger_ev,45,8.94,-5.82,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Nivara Mobility,EVP003,passenger_ev,37,13.58,43.88,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Nivara Mobility,EVP004,passenger_ev,40,13.27,42.62,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Tamas Auto,EVP005,passenger_ev,46,9.06,-3.23,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Tamas Auto,EVP006,passenger_ev,64,9.01,54.01,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Vayun Motors,EVP007,passenger_ev,63,4.16,33.45,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Vayun Motors,EVP008,passenger_ev,66,5.94,-7.91,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Prithvi EV,EVP009,passenger_ev,72,12.78,-7.22,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Prithvi EV,EVP010,passenger_ev,61,6.11,27.93,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Suryan Automotive,EVP011,passenger_ev,76,5.9,21.28,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-09,Maharashtra,Mumbai,Suryan Automotive,EVP012,passenger_ev,103,2.8,43.44,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Aranya Electric,EVP001,passenger_ev,36,6.27,45.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Aranya Electric,EVP002,passenger_ev,36,5.93,19.95,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Nivara Mobility,EVP003,passenger_ev,54,13.93,28.67,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Nivara Mobility,EVP004,passenger_ev,60,3.02,11.38,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Tamas Auto,EVP005,passenger_ev,55,5.35,51.62,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Tamas Auto,EVP006,passenger_ev,52,1.11,54.43,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Vayun Motors,EVP007,passenger_ev,82,3.68,-3.1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Vayun Motors,EVP008,passenger_ev,79,10.05,34.84,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Prithvi EV,EVP009,passenger_ev,100,8.42,46.61,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Prithvi EV,EVP010,passenger_ev,71,2.34,9.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Suryan Automotive,EVP011,passenger_ev,80,6.19,19.62,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-10,Maharashtra,Pune,Suryan Automotive,EVP012,passenger_ev,77,7.6,4.91,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Aranya Electric,EVP001,passenger_ev,31,9.2,6.85,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Aranya Electric,EVP002,passenger_ev,42,3.74,31.98,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Nivara Mobility,EVP003,passenger_ev,57,13.76,0.81,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Nivara Mobility,EVP004,passenger_ev,61,7.22,22.78,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Tamas Auto,EVP005,passenger_ev,53,13.61,41.13,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Tamas Auto,EVP006,passenger_ev,72,8.72,26.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Vayun Motors,EVP007,passenger_ev,82,11.26,26.05,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Vayun Motors,EVP008,passenger_ev,68,11.57,-5.27,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Prithvi EV,EVP009,passenger_ev,95,4.84,16.9,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Prithvi EV,EVP010,passenger_ev,74,9.57,38.33,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Suryan Automotive,EVP011,passenger_ev,101,1.37,7.25,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-11,Delhi,Delhi,Suryan Automotive,EVP012,passenger_ev,121,8.09,30.92,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Aranya Electric,EVP001,passenger_ev,26,11.62,11.29,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Aranya Electric,EVP002,passenger_ev,36,12.33,54.41,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Nivara Mobility,EVP003,passenger_ev,52,6.36,49.37,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Nivara Mobility,EVP004,passenger_ev,52,4.38,26.9,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Tamas Auto,EVP005,passenger_ev,53,7.3,40.02,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Tamas Auto,EVP006,passenger_ev,72,4.46,31.63,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Vayun Motors,EVP007,passenger_ev,67,8.31,42.34,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Vayun Motors,EVP008,passenger_ev,68,9.27,-4.28,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Prithvi EV,EVP009,passenger_ev,78,10.89,30.15,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Prithvi EV,EVP010,passenger_ev,104,7.18,21.64,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Suryan Automotive,EVP011,passenger_ev,113,11.48,20.16,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2025-12,Telangana,Hyderabad,Suryan Automotive,EVP012,passenger_ev,122,9.31,12.32,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Aranya Electric,EVP001,passenger_ev,32,3.61,14.27,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Aranya Electric,EVP002,passenger_ev,30,2.66,24.59,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Nivara Mobility,EVP003,passenger_ev,53,9.3,43.69,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Nivara Mobility,EVP004,passenger_ev,58,6.7,4.01,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Tamas Auto,EVP005,passenger_ev,52,2.56,51.71,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Tamas Auto,EVP006,passenger_ev,72,2.91,53.31,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Vayun Motors,EVP007,passenger_ev,80,13.95,18.73,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Vayun Motors,EVP008,passenger_ev,79,9.01,36.05,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Prithvi EV,EVP009,passenger_ev,87,5.61,20.05,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Prithvi EV,EVP010,passenger_ev,92,8.38,51.23,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Suryan Automotive,EVP011,passenger_ev,86,1.95,2.53,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-01,Tamil Nadu,Chennai,Suryan Automotive,EVP012,passenger_ev,70,2.25,30.98,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Aranya Electric,EVP001,passenger_ev,29,3.14,16.6,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Aranya Electric,EVP002,passenger_ev,42,13.56,8.06,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Nivara Mobility,EVP003,passenger_ev,38,13.25,-4.02,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Nivara Mobility,EVP004,passenger_ev,37,2.43,39.18,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Tamas Auto,EVP005,passenger_ev,54,9.14,10.58,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Tamas Auto,EVP006,passenger_ev,57,8.83,47.26,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Vayun Motors,EVP007,passenger_ev,45,13.65,30.88,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Vayun Motors,EVP008,passenger_ev,50,12.96,-5.04,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Prithvi EV,EVP009,passenger_ev,59,13.01,29.82,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Prithvi EV,EVP010,passenger_ev,81,1.43,12.0,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Suryan Automotive,EVP011,passenger_ev,70,13.69,27.21,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-02,Gujarat,Ahmedabad,Suryan Automotive,EVP012,passenger_ev,80,7.12,47.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Aranya Electric,EVP001,passenger_ev,27,9.46,15.61,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Aranya Electric,EVP002,passenger_ev,32,5.22,-7.19,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Nivara Mobility,EVP003,passenger_ev,38,9.33,33.92,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Nivara Mobility,EVP004,passenger_ev,39,13.07,50.71,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Tamas Auto,EVP005,passenger_ev,47,12.87,10.19,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Tamas Auto,EVP006,passenger_ev,40,1.88,6.89,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Vayun Motors,EVP007,passenger_ev,56,13.91,44.48,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Vayun Motors,EVP008,passenger_ev,52,2.26,-7.94,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Prithvi EV,EVP009,passenger_ev,51,2.08,54.14,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Prithvi EV,EVP010,passenger_ev,74,10.74,-3.94,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Suryan Automotive,EVP011,passenger_ev,71,3.63,15.25,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-03,Kerala,Kochi,Suryan Automotive,EVP012,passenger_ev,59,5.65,-5.65,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Aranya Electric,EVP001,passenger_ev,26,10.56,50.92,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Aranya Electric,EVP002,passenger_ev,32,4.48,30.8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Nivara Mobility,EVP003,passenger_ev,35,7.23,22.29,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Nivara Mobility,EVP004,passenger_ev,40,10.22,27.65,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Tamas Auto,EVP005,passenger_ev,34,1.74,51.99,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Tamas Auto,EVP006,passenger_ev,37,13.08,15.84,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Vayun Motors,EVP007,passenger_ev,54,7.41,10.67,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Vayun Motors,EVP008,passenger_ev,56,12.24,23.52,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Prithvi EV,EVP009,passenger_ev,65,2.67,50.77,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Prithvi EV,EVP010,passenger_ev,58,3.06,2.33,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Suryan Automotive,EVP011,passenger_ev,60,3.94,34.04,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-04,Karnataka,Bengaluru,Suryan Automotive,EVP012,passenger_ev,89,4.12,17.21,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Aranya Electric,EVP001,passenger_ev,24,10.83,44.76,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Aranya Electric,EVP002,passenger_ev,32,3.35,29.36,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Nivara Mobility,EVP003,passenger_ev,29,7.78,4.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Nivara Mobility,EVP004,passenger_ev,35,11.3,8.01,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Tamas Auto,EVP005,passenger_ev,34,11.61,36.59,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Tamas Auto,EVP006,passenger_ev,40,13.91,38.36,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Vayun Motors,EVP007,passenger_ev,45,9.77,33.61,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Vayun Motors,EVP008,passenger_ev,58,3.37,30.85,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Prithvi EV,EVP009,passenger_ev,49,11.77,46.24,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Prithvi EV,EVP010,passenger_ev,55,8.2,27.99,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Suryan Automotive,EVP011,passenger_ev,63,6.97,17.07,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-05,Maharashtra,Mumbai,Suryan Automotive,EVP012,passenger_ev,68,8.61,26.58,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Aranya Electric,EVP001,passenger_ev,21,8.73,10.74,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Aranya Electric,EVP002,passenger_ev,36,9.1,24.85,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Nivara Mobility,EVP003,passenger_ev,36,3.81,42.51,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Nivara Mobility,EVP004,passenger_ev,39,12.14,8.35,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Tamas Auto,EVP005,passenger_ev,41,13.87,25.56,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Tamas Auto,EVP006,passenger_ev,40,11.97,21.1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Vayun Motors,EVP007,passenger_ev,44,6.39,-0.81,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Vayun Motors,EVP008,passenger_ev,60,10.22,25.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Prithvi EV,EVP009,passenger_ev,46,2.07,49.78,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Prithvi EV,EVP010,passenger_ev,49,2.29,5.39,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Suryan Automotive,EVP011,passenger_ev,82,12.7,39.41,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-06,Maharashtra,Pune,Suryan Automotive,EVP012,passenger_ev,74,12.47,21.33,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Aranya Electric,EVP001,passenger_ev,21,12.83,35.81,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Aranya Electric,EVP002,passenger_ev,24,8.64,51.54,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Nivara Mobility,EVP003,passenger_ev,37,7.99,15.88,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Nivara Mobility,EVP004,passenger_ev,46,7.83,-2.03,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Tamas Auto,EVP005,passenger_ev,35,9.27,53.41,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Tamas Auto,EVP006,passenger_ev,42,6.78,20.15,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Vayun Motors,EVP007,passenger_ev,58,8.15,14.63,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Vayun Motors,EVP008,passenger_ev,65,12.43,2.73,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Prithvi EV,EVP009,passenger_ev,79,7.51,18.47,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Prithvi EV,EVP010,passenger_ev,53,9.22,53.11,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Suryan Automotive,EVP011,passenger_ev,72,1.7,49.06,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-07,Delhi,Delhi,Suryan Automotive,EVP012,passenger_ev,68,13.52,44.06,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Aranya Electric,EVP001,passenger_ev,34,2.0,48.4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Aranya Electric,EVP002,passenger_ev,41,5.81,35.19,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Nivara Mobility,EVP003,passenger_ev,46,4.12,-6.77,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Nivara Mobility,EVP004,passenger_ev,50,9.95,42.49,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Tamas Auto,EVP005,passenger_ev,47,11.47,11.0,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Tamas Auto,EVP006,passenger_ev,46,4.06,-5.28,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Vayun Motors,EVP007,passenger_ev,56,2.39,12.47,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Vayun Motors,EVP008,passenger_ev,76,6.76,37.5,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Prithvi EV,EVP009,passenger_ev,55,7.72,28.99,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Prithvi EV,EVP010,passenger_ev,90,3.77,18.83,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Suryan Automotive,EVP011,passenger_ev,65,5.32,5.71,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-08,Telangana,Hyderabad,Suryan Automotive,EVP012,passenger_ev,99,9.77,3.19,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Aranya Electric,EVP001,passenger_ev,39,11.83,8.75,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Aranya Electric,EVP002,passenger_ev,34,7.17,37.99,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Nivara Mobility,EVP003,passenger_ev,43,12.02,40.05,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Nivara Mobility,EVP004,passenger_ev,45,8.34,2.33,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Tamas Auto,EVP005,passenger_ev,47,11.32,1.33,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Tamas Auto,EVP006,passenger_ev,52,10.83,15.28,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Vayun Motors,EVP007,passenger_ev,73,3.77,9.35,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Vayun Motors,EVP008,passenger_ev,56,13.05,38.16,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Prithvi EV,EVP009,passenger_ev,81,4.85,-2.37,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Prithvi EV,EVP010,passenger_ev,82,9.48,47.26,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Suryan Automotive,EVP011,passenger_ev,95,4.0,-2.45,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-09,Tamil Nadu,Chennai,Suryan Automotive,EVP012,passenger_ev,103,7.13,-3.76,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Aranya Electric,EVP001,passenger_ev,38,3.32,53.99,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Aranya Electric,EVP002,passenger_ev,39,1.85,21.06,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Nivara Mobility,EVP003,passenger_ev,47,1.58,45.71,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Nivara Mobility,EVP004,passenger_ev,54,11.42,30.55,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Tamas Auto,EVP005,passenger_ev,68,1.83,38.31,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Tamas Auto,EVP006,passenger_ev,62,12.17,0.21,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Vayun Motors,EVP007,passenger_ev,73,9.34,5.06,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Vayun Motors,EVP008,passenger_ev,63,7.62,12.48,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Prithvi EV,EVP009,passenger_ev,63,11.07,41.36,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Prithvi EV,EVP010,passenger_ev,105,1.54,22.96,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Suryan Automotive,EVP011,passenger_ev,99,8.74,36.03,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-10,Gujarat,Ahmedabad,Suryan Automotive,EVP012,passenger_ev,82,11.5,20.96,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Aranya Electric,EVP001,passenger_ev,41,11.11,54.1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Aranya Electric,EVP002,passenger_ev,43,4.36,35.95,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Nivara Mobility,EVP003,passenger_ev,47,6.62,54.15,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Nivara Mobility,EVP004,passenger_ev,50,9.35,40.59,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Tamas Auto,EVP005,passenger_ev,66,2.43,22.11,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Tamas Auto,EVP006,passenger_ev,68,8.86,15.14,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Vayun Motors,EVP007,passenger_ev,87,4.34,46.39,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Vayun Motors,EVP008,passenger_ev,64,11.87,53.61,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Prithvi EV,EVP009,passenger_ev,80,2.56,39.74,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Prithvi EV,EVP010,passenger_ev,93,7.1,0.82,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Suryan Automotive,EVP011,passenger_ev,99,2.56,-1.43,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+2026-11,Kerala,Kochi,Suryan Automotive,EVP012,passenger_ev,96,9.35,0.87,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only

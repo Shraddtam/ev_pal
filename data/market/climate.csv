@@ -1,0 +1,97 @@
+city,state,month,average_temperature,minimum_temperature,maximum_temperature,humidity,rainfall,extreme_temperature_days,synthetic,source_type,generated_at,generation_method,source_reference,real_source_type
+Bengaluru,Karnataka,1,18.02,17.19,36.24,50,349.39,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,2,20.27,20.14,38.33,90,309.32,6,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,3,24.8,18.25,30.48,67,347.26,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,4,28.65,13.07,32.35,86,288.88,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,5,31.12,12.73,33.9,62,169.81,1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,6,34.88,19.34,33.35,65,181.87,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,7,29.21,13.74,34.97,59,106.7,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,8,25.64,21.04,32.8,51,261.15,6,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,9,22.72,14.87,35.02,65,2.92,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,10,22.18,19.46,32.94,85,188.42,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,11,21.29,17.57,34.01,75,36.26,4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Bengaluru,Karnataka,12,20.54,19.64,32.12,72,90.77,5,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,1,16.64,15.46,36.49,81,115.84,4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,2,20.76,18.19,35.24,56,271.7,1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,3,27.39,14.7,34.5,53,193.07,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,4,26.0,21.94,39.95,51,276.16,10,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,5,30.13,17.63,38.5,55,268.55,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,6,34.68,19.91,35.31,70,27.53,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,7,31.64,21.44,39.03,73,38.91,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,8,31.14,16.54,37.84,86,90.4,1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,9,24.8,13.9,38.27,70,186.66,2,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,10,19.31,14.03,38.32,82,180.68,0,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,11,19.7,14.66,36.33,68,119.98,10,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Mumbai,Maharashtra,12,19.55,22.66,34.9,51,347.88,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,1,18.13,17.76,33.56,73,21.63,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,2,22.4,12.36,34.57,80,283.75,9,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,3,25.88,22.25,35.51,67,343.21,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,4,28.12,16.94,39.08,43,43.6,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,5,28.28,14.36,39.09,41,12.73,5,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,6,29.52,15.07,34.55,54,283.06,0,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,7,28.73,21.38,33.63,79,310.89,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,8,28.49,15.64,37.02,47,302.84,6,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,9,22.82,12.56,38.04,60,150.12,4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,10,23.82,14.38,38.39,40,217.82,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,11,21.41,18.14,39.59,89,124.87,4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Pune,Maharashtra,12,15.05,16.06,37.55,60,18.53,1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,1,17.37,19.74,36.3,80,228.22,10,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,2,23.46,13.31,40.53,66,222.2,2,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,3,26.73,15.15,32.6,40,327.65,1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,4,31.35,17.05,37.85,45,27.08,6,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,5,33.9,18.48,37.18,63,42.85,5,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,6,29.56,16.86,31.15,44,56.29,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,7,29.02,12.4,36.4,66,323.11,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,8,31.46,20.39,37.92,85,313.15,5,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,9,25.84,13.08,36.94,88,270.77,10,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,10,24.29,19.1,33.68,85,268.93,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,11,15.99,15.01,40.76,81,343.67,10,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Delhi,Delhi,12,16.28,14.39,39.12,63,59.29,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,1,21.39,17.88,31.62,54,294.42,5,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,2,20.8,19.49,38.48,73,240.77,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,3,22.36,12.24,41.97,42,81.14,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,4,28.94,15.78,30.28,58,167.5,0,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,5,33.29,15.72,35.57,70,127.25,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,6,34.55,15.28,32.12,89,61.9,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,7,32.82,21.31,34.76,69,43.36,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,8,28.4,15.51,40.79,90,108.09,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,9,27.38,12.71,35.8,66,315.36,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,10,18.91,22.07,35.03,79,51.26,6,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,11,16.82,21.17,30.06,69,129.61,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Hyderabad,Telangana,12,16.13,22.52,36.71,50,285.03,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,1,17.43,13.06,36.98,71,183.98,0,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,2,23.96,17.53,34.83,44,195.22,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,3,26.85,20.53,36.02,45,187.58,9,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,4,25.53,15.13,30.85,79,250.28,4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,5,31.15,21.81,40.09,80,188.72,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,6,31.26,20.6,30.03,89,98.45,5,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,7,31.62,13.13,40.38,58,256.88,6,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,8,28.34,16.02,32.09,47,92.95,9,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,9,24.48,22.26,38.11,87,267.46,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,10,23.49,22.57,38.75,83,208.44,10,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,11,16.11,18.35,38.25,78,111.54,5,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Chennai,Tamil Nadu,12,18.87,15.01,38.22,49,12.76,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,1,17.73,19.58,40.89,75,227.45,1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,2,23.47,15.77,39.57,75,155.53,2,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,3,25.76,17.43,30.26,52,293.0,0,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,4,28.59,22.5,36.18,52,186.06,6,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,5,32.23,14.38,37.26,89,211.37,1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,6,34.01,19.2,40.83,88,267.14,5,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,7,33.61,13.46,30.24,76,87.3,3,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,8,26.92,22.27,34.99,65,314.42,6,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,9,24.25,14.76,36.31,59,215.77,8,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,10,24.19,19.42,34.39,76,168.82,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,11,20.93,21.77,31.16,50,151.77,9,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Ahmedabad,Gujarat,12,18.37,21.45,41.25,80,244.86,2,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,1,17.39,19.64,38.16,59,85.55,6,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,2,21.76,13.95,39.08,82,261.69,4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,3,22.92,21.16,32.98,72,49.6,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,4,29.79,20.69,38.94,71,75.87,1,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,5,30.0,17.16,30.13,69,324.76,9,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,6,32.68,15.25,30.04,65,203.47,10,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,7,32.76,12.32,34.35,58,234.06,2,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,8,30.98,22.01,38.2,58,341.28,4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,9,22.14,19.37,31.6,55,268.03,7,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,10,20.28,15.38,38.38,53,171.06,4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,11,20.56,16.71,33.31,80,218.41,0,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
+Kochi,Kerala,12,18.38,20.97,40.07,80,33.09,4,true,synthetic,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only

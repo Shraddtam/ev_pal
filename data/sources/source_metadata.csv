@@ -1,0 +1,2 @@
+source_id,source_name,source_type,organization,url,document_title,publication_date,collection_date,last_verified,valid_from,valid_until,reliability_level,data_categories,synthetic,generated_at,generation_method,source_reference,real_source_type
+SRC001,Synthetic generator,synthetic,EV PAL development,,Synthetic data generation metadata,2026-09-20,2026-09-20,2026-09-20,2026-09-20,,not_real_world,all,true,2026-09-20T00:00:00Z,seeded_rule_based_simulation_v1,,reference_only
